@@ -1,5 +1,48 @@
-h1 { color:rgb(106, 106, 8);text-align: center;}
+h1 { 
+    color:rgb(106, 106, 8);
+    text-align: center;
+    .bona-nova-sc-regular {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bona-nova-sc-bold {
+  font-family: "Bona Nova SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bona-nova-sc-regular-italic {
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+}
+
 h2 { color:antiquewhite;}
 body { background-color:floralwhite;}
-.intro {display: inline-block; padding: 10px; border: 2px dashed lightgoldenrodyellow; background-color:rgb(144, 144, 17); width: 80%; margin: 20px;}
-p { color: rgb(123, 123, 8);}
+.intro {
+    display: inline-block; 
+    padding: 10px; 
+    border: 2px dashed lightgoldenrodyellow; 
+    background-color:rgb(144, 144, 17); 
+    width: 80%; 
+    margin: 20px;}
+
+h3 { color:rgb(67, 67, 8);
+    text-decoration: underline;}
+    
+    
+    
+    p { 
+        color: rgb(123, 123, 8);
+        font-size: 40px; 
+        font-weight: bold;
+    }
+
+a:link { color:rgb(123, 123, 8);
+        text-decoration: none;}
+a:visited { color: rgb(123, 123, 8);
+            text-decoration: none;}
