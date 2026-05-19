@@ -34,3 +34,7 @@ body { background-color:rgb(102, 102, 5);}
     width: 10%; 
     margin: 20px;
     text-align: center;}
+
+figure { margin: 20px;
+        text-align: right;
+    width: 90%;}
