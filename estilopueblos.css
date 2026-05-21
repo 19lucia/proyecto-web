@@ -8,7 +8,7 @@ h1 {
 
 h2 {
     color:rgb(123, 123, 15);
-    font-size: 30px; 
+    font-size: 35px; 
     body { background-color:floralwhite;
     }
     .intro {
@@ -25,9 +25,9 @@ h2 {
 
 p {
     color:bisque;
-    width: 400px; height: 300px;
+    width: 1800px; height: 300px;
     margin: 60px;
-    font-size: 20px;
+    font-size: 22px;
     text-align:left;
     
 }
@@ -44,5 +44,5 @@ body { background-color:rgb(102, 102, 5);}
     text-align: center;}
 
 figure { margin: 20px;
-        text-align: right;
+        text-align: center;
     width: 90%;}
